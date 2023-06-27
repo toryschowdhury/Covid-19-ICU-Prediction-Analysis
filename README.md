@@ -1,4 +1,7 @@
 # Covid-19-ICU-Prediction-Analysis
+
+![image](https://github.com/toryschowdhury/Covid-19-ICU-Prediction-Analysis/assets/30194689/f62f97b4-52f8-42f0-a070-6abe449966bb)
+
 This project explains the implementation of exploratory data analysis and machine learning model development for predicting ICU admissions during the COVID-19 pandemic. The aim is to analyze a dataset obtained from the "Kaggle Sirio Libanes ICU Prediction" dataset and develop a predictive model using machine learning techniques.
 Steps taken to do the analysis includes: data description, data preprocessing, exploratory data analysis, data cleaning and transformation, data visualization, data preprocessing, feature selection, and model building and evaluation and performance analysis.
 The dataset used in the project comprises information on 1925 patients admitted to the ICU, including demographic details, comorbidities, laboratory test results, and vital signs. The target variable indicates whether a patient was admitted to the ICU or not.
